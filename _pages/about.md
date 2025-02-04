@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Romain [Last Name]
+# Romain Blanchot
 French Developer
 
 ---
@@ -54,7 +54,7 @@ Passionate about development and new technologies, I am an engineering student i
     - Network connection maintenance to ensure optimal performance and uptime.
     - Security access protocols to safeguard sensitive data and infrastructure.
     - Addressing all related challenges, including power management and cooling systems. The site is currently not operational but is in the final stages of setup.
-  - Hotel La Louisiane website: [Hotel La Louisiane](https://hotellalouisiane.com), designed to enhance the online presence and user experience for the hotel.
+  - Hotel La Louisiane website: [Hotel La Louisiane](https://hotel-lalouisiane.com), designed to enhance the online presence and user experience for the hotel.
   - Google Cloud certification (in progress), focusing on cloud architecture and services.
 
 ---
